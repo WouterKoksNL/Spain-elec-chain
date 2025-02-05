@@ -1,0 +1,3 @@
+[submodule "elmod.jl"]
+	path = elmod.jl
+	url = https://git.tu-berlin.de/wip/elmodtoolbox/elmod.jl.git
