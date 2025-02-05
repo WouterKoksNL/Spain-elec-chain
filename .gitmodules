@@ -1,3 +1,6 @@
 [submodule "elmod.jl"]
 	path = elmod.jl
 	url = https://git.tu-berlin.de/wip/elmodtoolbox/elmod.jl.git
+[submodule "p4r-env"]
+	path = p4r-env
+	url = https://github.com/plan4res/p4r-env.git
