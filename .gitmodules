@@ -4,3 +4,7 @@
 [submodule "technology-data"]
 	path = technology-data
 	url = https://github.com/WouterKoksNL/technology-data.git
+[submodule "Plan4Res-SMS"]
+	path = Plan4Res-SMS
+	url = https://github.com/iDesignRES/Plan4Res-SMS.git
+	branch = WP1_POC_Spain
